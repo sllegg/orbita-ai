@@ -1,0 +1,45 @@
+{
+  "checks": "PASS: network, terrain, rotation, shelter proximity, persistent dust, emergency pause, all five wins, resource failure, saved state",
+  "campaign": [
+    {
+      "mission": 1,
+      "success": true,
+      "day": 3,
+      "science": 12,
+      "energy": 95,
+      "reason": "Objectives achieved."
+    },
+    {
+      "mission": 2,
+      "success": true,
+      "day": 4,
+      "science": 16,
+      "energy": 100,
+      "reason": "Objectives achieved."
+    },
+    {
+      "mission": 3,
+      "success": true,
+      "day": 5,
+      "science": 20,
+      "energy": 59,
+      "reason": "Objectives achieved."
+    },
+    {
+      "mission": 4,
+      "success": true,
+      "day": 5,
+      "science": 20,
+      "energy": 100,
+      "reason": "Objectives achieved."
+    },
+    {
+      "mission": 5,
+      "success": true,
+      "day": 6,
+      "science": 35,
+      "energy": 36,
+      "reason": "Objectives achieved."
+    }
+  ]
+}
