@@ -1,5 +1,19 @@
 # Verification report — 14 November 2026
 
+## Submission preparation update — 15 November 2026
+
+Added a Science Notebook, contextual NASA-resource explanations in debriefs, source mapping, SI disclosures in text and metadata, and visible SI artwork labels. Two official NASA resources were reviewed; numerical rules are unchanged. Syntax and all five automated engine walkthroughs pass after the update. The six-slide demonstration was rendered and visually reviewed, including correction of an initially missing screenshot. Its standalone web viewer contains exactly six exported slides and keyboard/button navigation. This new update is local and has not been uploaded or browser-tested on the public site. The published-site browser verification below applies to the previous release.
+
+## Published-site browser verification — 15 November 2026
+
+The team published https://sllegg.github.io/orbita-ai/. This public HTTPS site was tested in the in-app browser, resolving the earlier local-file testing blocker for the tested flows.
+
+Verified through actual browser controls: menu and briefing; individual Habitat placement; training layout with eight connected modules; live engineering report (33.5 generation, 7 water, 20 m shelter access); mission launch; emergency pause; cleaning choice and immediate costs; reload and exact emergency restoration via Resume; all three shifts of Mission 1; successful debrief (800 score, 12 science, 100 health); three achievements; Mission 2 unlock, briefing and retained layout. A 390 × 844 viewport check of the builder showed no horizontal page overflow (reported page width 375, viewport 390). Desktop artwork was visually inspected. Captured browser error log was empty.
+
+Screenshot: accompanying `ORBITA-live-verified.jpg`. This was a browser walkthrough of Mission 1 and the transition to Mission 2, not a browser playthrough of all five missions. The remaining missions retain automated-engine verification only. Mobile operations, exhaustive accessibility, cross-browser and physical-device testing remain pending. No contest submission was performed.
+
+The historical local-file blocker and checklist below describe the earlier delivery; the tested items above are now verified on the published site.
+
 ## Frontier visual update — 15 November 2026
 
 Added original shaded SVG miniatures for all eight modules, a lunar-outpost menu diorama, mission illustrations, terrain decoration and visible automatic service links. The resource rules and saved-game key are unchanged. JavaScript syntax checks, all five engine walkthroughs, minimal-DOM rendering checks and standalone/source consistency verification were rerun successfully. The previous real-browser limitation below still applies; the new appearance has not been visually verified in a browser.

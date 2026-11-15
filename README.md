@@ -36,7 +36,11 @@ Do not put credentials or private files in the repository. A Pages site is publi
 
 ## Model and provenance
 
-Read `MODEL.md`, or use **Model & assumptions** in the game. All quantities, terrain and events are original, simplified teaching assumptions. No challenge Resources dataset, live telemetry, real orbital illumination model or generative AI service is integrated. ORBITA's advice is a deterministic rule system. The name “AI” is branding.
+Read `MODEL.md`, or use **Model & assumptions** in the game. The submission update adds a Science Notebook and contextual debrief explanations based on two NASA educational resources, mapped in `NASA_SOURCES.md`. All quantities, terrain and events remain original, simplified teaching assumptions. No challenge Resources dataset, live telemetry, real orbital illumination model or generative AI service is integrated. ORBITA's advice is a deterministic rule system. The name “AI” is branding. Development used ChatGPT/Codex assistance for code, text and SI-generated vector artwork, as disclosed in the interface, metadata and `SI_DISCLOSURE.md`.
+
+## Demonstration for the submission form
+
+The update includes `demo.html`, a six-slide presentation exported from the editable `ORBITA_AI_Demo.pptx`. Upload both beside the game's `index.html`. After deployment, the demonstration URL is `https://sllegg.github.io/orbita-ai/demo.html`. This URL is not claimed live until the team uploads the update and verifies it. The presentation includes visible SI artwork labeling. The game and deck have no NASA logo or generated NASA mission identifiers.
 
 The previous file was found at `Downloads/ORBITA_AI_Lunar_Mission_Trainer.html`. Its original resource-allocation prototype was inspected; this version replaces the single 30-day slider exercise with the requested campaign and base design system. The original download has not been modified.
 
